@@ -1,0 +1,3 @@
+[submodule "nemo-app-frontend"]
+	path = nemo-app-frontend
+	url = https://github.com/amrmahmoudabdelghany/nemo-app-frontend
